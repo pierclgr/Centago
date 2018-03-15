@@ -128,7 +128,7 @@ See also the list of [contributors](https://github.com/pierclgr/PENTAGO-TABLE-GA
 
 ## License
 
-This is an open source software: you can download and use this software freely.
+This program is licensed under GNU General Public License v3, see [LICENSE](LICENSE) for more details.
 
 ## Acknowledgments
 
