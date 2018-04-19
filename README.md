@@ -136,3 +136,9 @@ This program is licensed under GNU General Public License v3, see [LICENSE](LICE
 - Always friendly neighborhood Google
 - Searchings for bug fixes
 
+## Screenshots
+![game](Screenshots/game.PNG)
+![game_rules](Screenshots/game_rules.png)
+![load_game](Screenshots/load_game.PNG)
+![main_menu](Screenshots/main_menu.PNG)
+![settings](Screenshots/settings.PNG)
