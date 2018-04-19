@@ -13,7 +13,7 @@ If you want to translate some parts of the project or the entire project, see [C
 
 ### Main Functionalities
 
-These are the main functionalities provided by the game. This version uses also a GUI realized with symbols printed directly in the cmd window.
+These are the main functionalities provided by the game. This version uses also a GUI realized with symbols printed directly in the cmd window. This game also implements a very simple AI built with no particular theoric bases.
 
 1. Play a new game
    - You can save the current game to resume it later without losing progress
@@ -141,4 +141,4 @@ This program is licensed under GNU General Public License v3, see [LICENSE](LICE
 ![game_rules](Screenshots/game_rules.png)
 ![load_game](Screenshots/load_game.PNG)
 ![main_menu](Screenshots/main_menu.PNG)
-![settings](Screenshots/settings.PNG)
+![settings](Screenshots/settings.png)
