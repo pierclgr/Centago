@@ -101,14 +101,6 @@ void test_your_own_function(void){
 }
 ```
 
-## Screenshots
-
-- [main_menu.png](Screenshots/main_menu.PNG) - Main menu
-- [game.png](Screenshots/game.PNG) - Game in progress
-- [game_rules.png](Screenshots/game_rules.png) - Game rules
-- [load_game.png](Screenshots/load_game.PNG) - Load game menu
-- [settings.png](Screenshots/settings.png) - Settings Menu
-
 ## Built With
 
 - [Eclipse](http://www.eclipse.org/downloads/packages/eclipse-ide-cc-developers/oxygen2) - IDE
@@ -137,6 +129,7 @@ This program is licensed under GNU General Public License v3, see [LICENSE](LICE
 - Searchings for bug fixes
 
 ## Screenshots
+
 ![game](Screenshots/game.PNG)
 ![game_rules](Screenshots/game_rules.png)
 ![load_game](Screenshots/load_game.PNG)
