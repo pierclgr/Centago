@@ -114,7 +114,7 @@ To contribute to this project, see [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Authors
 
 - **Pierpasquale Colagrande** - _Initial work_ - [pierclgr](https://github.com/pierclgr)
-- **Rocco Debellis** - _Initial work_ - [roccodeb](https://github.com/roccodeb)
+- **Rocco Debellis** - _Initial work_ - [roccodebellis](https://github.com/roccodebellis)
 
 See also the list of [contributors](https://github.com/pierclgr/PENTAGO-TABLE-GAME/contributors) who participated in this project.
 
